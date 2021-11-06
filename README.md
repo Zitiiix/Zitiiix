@@ -14,18 +14,3 @@
     <img alt="c#" src="https://img.shields.io/badge/-C%20Sharp-44CF90?style=flat-square&logo=c%20sharp&logoColor=white" />
 </p>
 
----
-
-## 🚩 Projects:
-
-<div align="center"> 
-    <a href="https://github.com/Zitiiix/DiscordEmbedBuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zitiiix&repo=DiscordEmbedBuilder&hide_border=true&theme=discord_old_blurple" />
-    </a>
-    <a href="https://github.com/Zitiiix/ZNitroGenerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zitiiix&repo=ZNitroGenerator&hide_border=true&theme=discord_old_blurple" />
-    </a>
-    <a href="https://github.com/Zitiiix/CppBasicProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zitiiix&repo=CppBasicProject&hide_border=true&theme=discord_old_blurple" />
-    </a>
-</div>
