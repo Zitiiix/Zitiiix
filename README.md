@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on @ Teldy a Discord AntiRaid bots project.
 - 📫 How to reach me [Discord](https://discord.com/users/840657258748706826).
-- 🔧 NodeJS, ReactJS, ElectronJS, VueJs and C#
+- 🔧 NodeJS, ReactJS, ElectronJS, VueJS and C#
 
 ## Request help
 - You can contact me on private messages, on [Discord](https://discord.com/users/840657258748706826).
