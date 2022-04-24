@@ -1,14 +1,17 @@
-## 👋 Hey I am Zitiix !
-
-- 🔭 I’m currently working on @ Teldy a Discord AntiRaid bots project.
-- 📫 How to reach me [Discord](https://discord.com/users/840657258748706826).
-- 🔧 NodeJS, ReactJS, ElectronJS, VueJS and C#
-
-## Request help
-- You can contact me on private messages, on [Discord](https://discord.com/users/840657258748706826).
-- Here the support of @ Teldy [Support](https://discord.gg/r8GK5hB6AW).
-
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=zitiiix&show_icons=true&hide_border=true&theme=tokyonight" />
+![counter](https://enwk7okkacbnf3i.m.pipedream.net)
 
 
+<h1 align="center">Hi!! I'm Zitiix 👋</h1>
 
+<h3 align="center">I write code to make computers do things</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mongovim&coding=cute" />
+  </a>
+</p>
+
+<details>
+  <summary>Coding Stats</summary>
+
+  ![langs](https://wakatime.com/share/@redpanda/4650c33e-d833-4e5d-92a8-35284444b6e7.svg)
+</details>
