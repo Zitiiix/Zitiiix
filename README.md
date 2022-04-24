@@ -6,12 +6,6 @@
 <h3 align="center">I write code to make computers do things</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mongovim&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mongo,mysqlvim&coding=cute" />
   </a>
 </p>
-
-<details>
-  <summary>Coding Stats</summary>
-
-  ![langs](https://wakatime.com/share/@zitiiix/4650c33e-d833-4e5d-92a8-35284444b6e7.svg)
-</details>
