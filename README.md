@@ -1,11 +1,40 @@
-![counter](https://enwk7okkacbnf3i.m.pipedream.net)
+<a href="https://dsc.bio/yasss"><img src="https://github.com/whereisyasss/whereisyasss/blob/main/%40banner"  /></a>
+<br/>
 
 
-<h1 align="center">Hello! I'm Zitiix 👋</h1>
+---
+<br />
+<img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
 
-<h3 align="center">I write code to make computers do things</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mongo,cs,c,cpp,dotnet,electron,mysql&vim&coding=cute" />
-  </a>
+
+<a href="https://github.com/Zitiiix">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitiiix&theme=dracula">
+</a>
+
+
+<br />
+<br />
+<br />
+
+
+<p align="center" style="font-size: 24px;">Hello everyone, I'm Zitiix, I'm a young apprentice developper interested in web & software, I'm preparing projects for the future 🚀 I'm using the following technologies : </p>
+<br />
+
+<div align="center">
+ <a href="https://github.com/Zitiiix">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cs,php,mysql,heroku,vscode,bots,git,linux&theme=light">
+</a>
+</div>
+
+***
+
+## Profile Views :
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Zitiiix/count.svg" />
 </p>
+
+<br/>
+
+_This [README.md](https://github.com/whereisyasss/whereisyasss "Yasss presentation") can be edited by his author at any moment._
+
