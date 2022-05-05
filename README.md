@@ -3,12 +3,6 @@
 <br />
 <img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
 
-
-<a href="https://github.com/Zitiiix">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitiiix">
-</a>
-
-
 <br />
 <br />
 <br />
