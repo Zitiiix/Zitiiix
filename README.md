@@ -1,11 +1,11 @@
 <a href=""><img src="https://cdn.discordapp.com/attachments/853218430253006868/971511732486955028/github_no_cookie.0.jpg"  /></a>
 <br/>
 <br />
-<img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&&show_icons=true&hide_border=true" />
 
 
 <a href="https://github.com/Zitiiix">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitiiix&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitiiix">
 </a>
 
 
