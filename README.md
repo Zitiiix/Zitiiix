@@ -13,7 +13,7 @@
 
 <div align="center">
  <a href="https://github.com/Zitiiix">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cs,c,php,mysql,vscode,bots,git,linux&theme=light">
+  <img src="https://skillicons.dev/icons?i=c,cs,js&theme=light">
 </a>
 </div>
 
