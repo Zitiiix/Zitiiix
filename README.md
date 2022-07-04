@@ -1,32 +1,35 @@
-<a href=""><img src="https://cdn.discordapp.com/attachments/972492254864355398/972531512459264080/banner_shellcats.png"  /></a>
-<br/>
-<br />
-<img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Adam+(known+as+Freiik);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/></h1>
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zitiiix&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
-<br />
-<br />
-<br />
+- 💻 High school student
 
+---
 
-<p align="center" style="font-size: 24px;">Hello everyone, I'm Zitiix. I'm a young apprentice developper interested in web & software, I'm preparing projects for the future 🚀 I'm using the following technologies : </p>
-<br />
+## 🌍 Programming languages:
 
-<div align="center">
- <a href="https://github.com/Zitiiix">
-  <img src="https://skillicons.dev/icons?i=c,cs,js,html,css&theme=light">
-</a>
-</div>
-
-
-***
-
-## Profile Views :
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Zitiiix/count.svg" />
+<p>
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
+	<img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
+	<img alt="react" src="https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white" />
+	<img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
+	<img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
+	<img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
+	<img alt="c#" src="https://img.shields.io/badge/-C%20Sharp-44CF90?style=flat-square&logo=c%20sharp&logoColor=white" />
 </p>
 
-<br/>
+---
 
-_This [README.md](https://github.com/Zitiiix/Zitiiix "README.md") can be edited by his author at any moment._
+## 🚩 Projects:
 
+<div align="center"> 
+	<a href="https://github.com/FreiikDev/UploadIntegration">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=UploadIntegration&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+	<a href="https://github.com/FreiikDev/djs-giveaways">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=djs-giveaways&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+	<a href="https://github.com/FreiikDev/discord-addons">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=FreiikDev&repo=discord-addons&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+</div>
