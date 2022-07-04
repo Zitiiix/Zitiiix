@@ -20,8 +20,8 @@
 
 ## 🚩 Projects:
 
-<div align="center"> 
-	<a href="https://github.com/Zitiiix/Zitiix-Blade-Bot">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zitiiix&repo=Zitiix-Blade-Bot&hide_border=true&theme=vision-friendly-dark" />
-	</a>
-</div>
+##<div align="center"> 
+##	<a href="https://github.com/Zitiiix/Zitiix-Blade-Bot">
+##	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zitiiix&repo=Zitiix-Blade-Bot&hide_border=true&theme=vision-friendly-dark" />
+##	</a>
+##</div>
