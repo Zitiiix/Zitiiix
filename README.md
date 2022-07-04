@@ -1,8 +1,6 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;I'm+Matthieu+(known+as+Zitiix);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/></h1>
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zitiiix&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
-- 💻 High school student
-
 ---
 
 ## 🌍 Programming languages:
